@@ -38,7 +38,7 @@ Google AI Studio API key (for Gemini)
 Installation
 Clone the repository
 
-git clone https://github.com/vvk079/thumbnailio.git
+
 cd thumbnailio
 Install dependencies
 
